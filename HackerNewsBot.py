@@ -11,7 +11,7 @@ import hn
 def main():
     global update_id
     # Telegram Bot Authorization Token
-    bot = telegram.Bot('377514645:AAFMnrVmoE-GmAmVahB7GVIrN22Ii2rOrQM')
+    bot = telegram.Bot('add your API Token')
 
     # get the first pending update_id, this is so we can skip over it in case
     # we get an "Unauthorized" exception.
