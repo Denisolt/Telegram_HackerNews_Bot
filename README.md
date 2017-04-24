@@ -19,6 +19,10 @@ pip install -r requirements.txt
 ```
 ## Execution:
 ```
+nano HackerNewsBot.py
+#line 14 add your api token from BotFather
+bot = telegram.Bot('add your API Token')
+
 Python HackerNewsBot.py
 ```
 </br>
